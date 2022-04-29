@@ -1,6 +1,5 @@
 ### Hi there 👋
-    I'm Madhu Shree and I'm currently learning Python 
-
+    I'm Madhu Shree
 <!--
 **Madhushree10/Madhushree10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
